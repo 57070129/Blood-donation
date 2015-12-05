@@ -1,0 +1,5 @@
+totalGet,71555
+
+totalPaid,64583
+
+totalStock,6972

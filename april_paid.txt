@@ -1,0 +1,6 @@
+PublicHospital_bkk,26675
+Hospital_country,15785
+Service,12790
+Activity,1166
+
+Defective,1303

@@ -1,0 +1,9 @@
+first,8,511 
+
+getPlace,30,904
+
+getMove,26,880
+
+getOtc,0
+
+getMarch, 6,972

@@ -1,0 +1,11 @@
+paidHospitalRat_bkk,17307
+
+paidHospitalRat_country,12482
+
+paidHospitalAek_bkk,13763
+
+paidHospitalAek_country,5383
+
+paidActivity,1597
+
+bin,1261

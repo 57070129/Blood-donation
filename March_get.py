@@ -1,7 +1,9 @@
+'''Plot Graph'''
 import matplotlib.pyplot as plt
 
 # The slices will be ordered and plotted counter-clockwise.
 def march_get():
+    """Show the graph of incoming blood in march."""
     labels = 'FirstDonation', 'GetPlace', 'GetMove', 'GetFebruary'
     sizes = [10831, 34975, 34170, 2410]
     colors = ['mediumorchid', 'teal', 'gold', 'indianred']

@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 # The slices will be ordered and plotted counter-clockwise.
 def may_get():
     """Show the graph of incoming blood in may."""
-    labels = 'FirstDonation', 'GetPlace', 'GetMove', 'GetFebruary'
+    labels = 'FirstDonation', 'GetDonate_inplace', 'GetDonate_outing', 'GetApril'
     sizes = [6571, 24377, 25692, 13507]
     colors = ['mediumorchid', 'teal', 'gold', 'indianred']
     explode = (0, 0, 0.1, 0)  # only "explode" the 2nd slice (i.e. 'Hogs')

@@ -13,5 +13,6 @@ def aprill_get():
         autopct='%1.1f%%', shadow=True, startangle=90)
     # Set aspect ratio to be equal so that pie is drawn as a circle.
     plt.axis('equal')
+    plt.savefig("april_get.png",bbox_inches='tight')
     plt.show()
 aprill_get()
